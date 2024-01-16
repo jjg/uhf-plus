@@ -14,5 +14,7 @@ To this end the "user inteface" is simple: a channel knob.  The knob cycles thro
 
 
 # References
+* [Radical Software](https://radicalsoftware.org/e/volume1nr1_pics.html)
 * [Add RCA output to a Pi Zero](https://magpi.raspberrypi.com/articles/rca-pi-zero)
 * [Raspberry Pi TV Simulator](https://github.com/Pakequis/Raspberry-pi-TV-sim)
+* [Rotary-Encoder (Python code to read encoder via GPIO)](https://github.com/modmypi/Rotary-Encoder/)
