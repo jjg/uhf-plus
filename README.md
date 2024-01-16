@@ -2,11 +2,11 @@
 
 A new streaming device with the heart, soul and quality of UHF television.
 
-![](images/MarkI.JPG)
+![Photo of the first prototype built into an old cable box](images/MarkI.JPG)
 
 # Description
 
-This project's focus is to product a receiver akin to the old "cable box" which tunes-in quality [Peertube](https://peertube.tv/) broadcasts.  The goal is to provide a way to experience the ease and comfort of free, analog, over-the-air Television in the digital age.
+This project's focus is to product a receiver akin to the old "cable box" which tunes-in quality [Peertube](https://peertube.tv/) broadcasts.  The goal is to provide a way to experience the ease and comfort of free, analog, over-the-air TV in the digital age.
 
 To this end the "user inteface" is simple: a channel knob.  The knob cycles through the avaliable channels with the goal of changing channels as quickly as you can turn the knob.  
 
