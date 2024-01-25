@@ -17,7 +17,7 @@ There's now two pieces of UHF+ hardware: [Type 1](./hardware/type1) and [Type 2]
 
 ### Type 1
 
-![Photo of the first prototype built into an old cable box](images/MarkI.JPG)
+![Photo of the first prototype built into an old cable box](hardware/type1/prototype.jpg)
 
 Type 1 is the original set-top-box design intended for use with a standard television.
 
