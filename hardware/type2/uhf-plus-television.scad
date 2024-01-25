@@ -1,6 +1,6 @@
 // TODO: Get actual measurements of the LCD
-LCD_LENGTH = 165;   // just a guess
-LCD_WIDTH = 107;    // just a guess
+LCD_LENGTH = 170; //165;   // just a guess
+LCD_WIDTH = 105;//107;    // just a guess
 LCD_DEPTH = 5;      // just a guess
 
 // replace CARD with LCD
@@ -13,7 +13,7 @@ KNOB_DIAMETER = 20;
 KNOB_SHAFT_DIAMETER = 10;
 KNOB_POCKET_DIAMETER = 42;
 
-BACK = true;
+BACK = false;
 KNOBS = true;
 KNOB_POCKETS = false;
 
