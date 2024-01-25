@@ -2,7 +2,6 @@
 
 A new streaming device with the heart, soul and quality of UHF television.
 
-![Photo of the first prototype built into an old cable box](images/MarkI.JPG)
 
 ## Overview 
 
@@ -18,7 +17,10 @@ There's now two pieces of UHF+ hardware: [Type 1](./hardware/type1) and [Type 2]
 
 ### Type 1
 
+![Photo of the first prototype built into an old cable box](images/MarkI.JPG)
+
 Type 1 is the original set-top-box design intended for use with a standard television.
+
 
 ### Type 2
 
