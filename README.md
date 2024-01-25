@@ -15,6 +15,9 @@ To this end the "user inteface" is simple: a channel knob.  The knob cycles thro
 
 There's now two pieces of UHF+ hardware: [Type 1](./hardware/type1) and [Type 2](./hardware/type2).
 
+Both devices are based on a single-board computer (currently [Raspberry Pi 3 Model A](https://www.raspberrypi.com/products/raspberry-pi-3-model-a-plus/) and a SP12T switch to select channels.  Type-specific hardware is desribed in detail below.
+
+
 ### Type 1
 
 ![Photo of the first prototype built into an old cable box](hardware/type1/prototype.jpg)
@@ -30,7 +33,8 @@ Type 2 is a stand-alone television designed for UHF+.  Type 2 incorporates the s
 
 
 ## Firmware
-The firmware should be mostly invisible to the viewer, but there will be a need to configure a few things.  Right now the plan for that is to provide a USB port where a keyboard can be attached, and when a keyboard is detected the device will launch into a configuration menu.  I have a few other ideas for this but right now this is my favorite, because it also means that the device *could* be used as a personal computer akin to the old 8-bit micros attached to televisions in the 1980's.
+The [firmware](firmware) should be mostly invisible to the viewer, but there will be a need to configure a few things.  Right now the plan for that is to provide a USB port where a keyboard can be attached, and when a keyboard is detected the device will launch into a configuration menu.  I have a few other ideas for this but right now this is my favorite, because it also means that the device *could* be used as a personal computer akin to the old 8-bit micros attached to televisions in the 1980's.
+
 
 ## Notes
 
